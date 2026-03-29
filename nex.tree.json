@@ -1,0 +1,4 @@
+{
+    "components/button.astro": "src/components",
+    "pages/button.astro": "src/pages"
+}
